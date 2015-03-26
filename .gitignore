@@ -1,3 +1,14 @@
+# Windows
+Thumbs.db
+
+# Visual Studio
+Debug/
+Generated Files/
+ipch/
+*.sdf
+*.opensdf
+*.suo
+
 # Mac
 .DS_Store
 
